@@ -12,17 +12,7 @@ As the product manager for this effort, I will work closely with an internal tea
 
 Below are the neccesary requiements I have generated this new product. I have attached each document to this repo for viewing.
 
-1. The Conceive Phase:
-- Porter's Five Forces Model
-- Product concept document
-- Product vision
-2. The Plan Phase:
 - Product requirements document (PRD)
+- Risk Prioritization Matrix
 - Product Sprint view
-- Product roadmap
-- Business case
-3. The Develop Phase:
-- Beta Plan
-4. The Qualify Phases:
-- Launch readiness assesment
 
