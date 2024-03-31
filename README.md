@@ -10,7 +10,7 @@ Inukshuk is looking to launch the product, which is an app, in the next 6-8 week
 
 As the product manager for this effort, I will work closely with an internal team consisting of 3 product developers, Inukshuk's in-house literacy expert and the COO of Inukshuk Books. I will drive the completion of an internal assessment which includes completetion of various documents listed below. I will lead the way to ensure the product management lifecycle is used to Inukshuk Books advantage.
 
-Below are the neccesary requiements I have generated this new product. I have attached each document to this repo for viewing.
+Below are the neccesary requiements I have generated for this new product. I have attached each document to this repo for viewing.
 
 - Product concept
 - Product requirements document (PRD)
