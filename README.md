@@ -1,14 +1,16 @@
 # Inukshuk Books
 
-A fictitious product scenario from which necessary product related documents were created to simulate real-word environment.
+This is a fictitious product scenario from University of Alberta Software Product Management course. This is the capstone project. Crucial product related documents were created to simulate real-word environment in this scenario.
 
-Summary of scenario: Solar-powered water heaters and furnaces have become increasingly popular due to their energy efficiency and environmental friendliness. According to a report by Forbes, solar water heaters can pay for themselves in as little as three to six years after the upfront investment. A report by Market Research Future states, the solar water heater market size was valued at USD 3.7 billion in 2022. The market industry is projected to grow from USD 4.01 billion in 2023 to USD 7.71 billion by 2032, exhibiting a compound annual growth rate (CAGR) of 8.50% during the forecast period (2023–2032).
+Summary of scenario: Inukshuk Books is a 21 year old book store with over 50 stores across Canada. They are looking to expand to the online market space, paticulary targeting young people, paticulary ages 7-12. There is correlation between reading and academic success that young readers who develop an interest in reading go on to doing well academically. The main purpose of this inititave is to try and increase interest in reading amongst young readers. They are looking to develop a product which delivers digital books to users upon request. The vision of this product is that it will help young readers improve their literacy while reading interesting content tailored towards them. Inukshuk Books have done research that suggests that peer to peer reading is the best way to improve a child's literacy and increase interest in reading. They are looking to include this somehow into the product.
 
-The primary market for solar powered heating is home or apartment owners and commercial businesses. Solar-R-Us (SRU) LLC produces multiple solar-powered water heating systems. They are upgrading their current product mix. A new solar water heating system was proposed which will provide several advanced features and functions that will address the market problem.
+There are no current competitors for this product. There are similar substitures such as an E-reader or educational tools but no product that combines the two. Inukshuk is looking to focus only on the North American market for now with a possibility to expand to other nations in the future. They are hoping to increase sales in next 5-10 years by increasing the number of children interested in reading and buying books.
 
-As the product manager for this effort, I will work closely with an internal team consisting of product developers, manufacturing, marketing, operations, customer support, and sales. I will drive the completion of an internal assessment which includes completetion of various documents listed below. I will lead the way to ensure the product management lifecycle is used to SRU's advantage. I will drive the completion of an external assessment. In addition, I will need to drive all market development efforts for the new product offerings.
+Inukshuk is looking to launch the product, which is an app, in the next 6-8 weeks. They want a working prototype in 6 in weeks. The budget to achieve the goal of the product covers 3 developers and has contingency funds for additional resources or technology, if needed. 
 
-Below are the neccesary requiements I have generated as I went through the product development lifecycle for this new product. I have attached each document to this repo for viewing.
+As the product manager for this effort, I will work closely with an internal team consisting of 3 product developers, Inukshuk's in-house literacy expert and the COO of Inukshuk Books. I will drive the completion of an internal assessment which includes completetion of various documents listed below. I will lead the way to ensure the product management lifecycle is used to Inukshuk Books advantage.
+
+Below are the neccesary requiements I have generated this new product. I have attached each document to this repo for viewing.
 
 1. The Conceive Phase:
 - Porter's Five Forces Model
@@ -16,13 +18,11 @@ Below are the neccesary requiements I have generated as I went through the produ
 - Product vision
 2. The Plan Phase:
 - Product requirements document (PRD)
-- Product backlog
+- Product Sprint view
 - Product roadmap
 - Business case
 3. The Develop Phase:
 - Beta Plan
 4. The Qualify Phases:
 - Launch readiness assesment
-5. The Launch Phases:
-- Marketing requirements document
-- Demand generation plan
+
