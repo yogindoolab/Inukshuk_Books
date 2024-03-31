@@ -12,6 +12,7 @@ As the product manager for this effort, I will work closely with an internal tea
 
 Below are the neccesary requiements I have generated this new product. I have attached each document to this repo for viewing.
 
+- Product concept
 - Product requirements document (PRD)
 - Risk Prioritization Matrix
 - Product Sprint view
